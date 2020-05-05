@@ -22,7 +22,7 @@ Whitepapers & Guides for AWS...
 - `technical-guide` [Technical Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23tech-guide&awsf.whitepapers-content-category=*all) — Learn practices through technical guides.
 
 
-## <img width="21" height="21" src="images/architecture.png" /> AWS Reference Architecture Diagrams
+## <img width="21" height="21" src="images/wa.png" /> AWS Reference Architecture Diagrams
 
 How to architect your AWS projects...
 

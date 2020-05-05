@@ -14,7 +14,7 @@
 A curated list of helpful AWS-Well-Architected resources.
 
 - [Whitepapers & Guides](#-whitepapers--guides)
-- [Well Architected Lens]()
+- [Well Architected Lens](#-well-architected-lens)
 - [AWS Solutions Library](#-AWS-Solutions-Library)
 - [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
 - [The Amazon Builders' Library](#-aws-reference-architecture-diagrams)
@@ -33,6 +33,7 @@ Whitepapers & Guides for AWS...
 - `whitepapers-collection` [White Papers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23reference%7Ccontent-type%23whitepaper&awsf.whitepapers-content-category=*all) — Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, technical guides, reference material, and reference architecture diagrams.
 
 - `technical-guide` [Technical Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23tech-guide&awsf.whitepapers-content-category=*all) — Learn practices through technical guides.
+
 
 ## <img width="21" height="21" src="images/lens.png" /> Well-Architected lens
 

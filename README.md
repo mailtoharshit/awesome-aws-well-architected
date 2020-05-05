@@ -14,6 +14,7 @@
 A curated list of helpful AWS-Well-Architected resources.
 
 - [Whitepapers & Guides](#-whitepapers--guides)
+- [Well Architected Lens]()
 - [AWS Solutions Library](#-AWS-Solutions-Library)
 - [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
 - [The Amazon Builders' Library](#-aws-reference-architecture-diagrams)
@@ -32,6 +33,17 @@ Whitepapers & Guides for AWS...
 - `whitepapers-collection` [White Papers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23reference%7Ccontent-type%23whitepaper&awsf.whitepapers-content-category=*all) — Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, technical guides, reference material, and reference architecture diagrams.
 
 - `technical-guide` [Technical Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23tech-guide&awsf.whitepapers-content-category=*all) — Learn practices through technical guides.
+
+Well-Architected lens
+
+- `serverless` [Serverless Application](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf) — This “Lens”  focus on how to design, deploy, and architect your serverless application workloads on the AWS Cloud. It covers scenarios such as RESTful Microservices, Mobile back-ends, Stream Processing, and Web Application. By using this Well-Architected lens you will learn best practices for building serverless application workloads on AWS.
+
+- `HPC` [High Performance Computing](https://d1.awsstatic.com/whitepapers/architecture/AWS-IoT-Lens.pdf) — This “Lens”  focus on how to design, deploy, and architect your serverless application workloads on the AWS Cloud. It covers scenarios such as RESTful Microservices, Mobile back-ends, Stream Processing, and Web Application. By using this Well-Architected lens you will learn best practices for building serverless application workloads on AWS.
+
+- `iot` [IoT (Internet of Things)](https://d1.awsstatic.com/whitepapers/architecture/AWS-IoT-Lens.pdf) — This “Lens”  focus on how to design, deploy, and architect your High-Performance Computing (HPC) workloads on the AWS Cloud. It covers scenarios such as Loosely Coupled/High-Throughput Computing and Tightly Coupled/High-Performance Computing. By using this Well-Architected lens you will learn best practices for building HPC workloads on AWS.
+
+
+- `ML` [Machine Learning](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf) — This “Lens” focus on common machine learning (ML) scenarios and identify key elements to ensure that your workloads are architected according to best practices in the AWS cloud. It covers scenarios such as securing your ML datasets, architecting your ML pipelines, and best practices for cost and reliability of your ML workloads.
 
 ## <img width="21" height="21" src="images/solutions.png" /> AWS Solutions Library
 

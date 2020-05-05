@@ -9,7 +9,7 @@
 A curated list of helpful AWS-Well-Architected resources.
 
 - [Whitepapers & Guides](#-whitepaper)
-- [AWS Solutions Library](#-AWS Solutions Library)
+- [AWS Solutions Library](#-AWS-Solutions-Library)
 - [Reference Architecture Diagrams](#-reference-architecture)
 - [Blogs](#-blogs)
 

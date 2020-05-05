@@ -52,7 +52,7 @@ Well-Architected lens for AWS...
 
 The AWS Solutions Library offers a collection of cloud-based solutions for dozens of technical and business problems, vetted for you by AWS. 
 
-- `Soltions` [Solution Collections](https://aws.amazon.com/solutions/?nc1=f_cc) — AWS Solutions Implementations help you solve common problems and build faster using the AWS platform. All AWS Solutions Implementations are vetted by AWS architects and are designed to be operationally effective, reliable, secure, and cost efficient. Every AWS Solutions Implementation comes with detailed architecture, a deployment guide, and instructions for both automated and manual deployment.
+- `Solutions` [Solution Collections](https://aws.amazon.com/solutions/?nc1=f_cc) — AWS Solutions Implementations help you solve common problems and build faster using the AWS platform. All AWS Solutions Implementations are vetted by AWS architects and are designed to be operationally effective, reliable, secure, and cost efficient. Every AWS Solutions Implementation comes with detailed architecture, a deployment guide, and instructions for both automated and manual deployment.
 
 
 

@@ -19,7 +19,7 @@ A curated list of helpful AWS-Well-Architected resources.
 
 Whitepapers & Guides for AWS...
 
-- `whitepapers-collection` [White Papers and Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23reference%7Ccontent-type%23whitepaper&awsf.whitepapers-content-category=*all) — Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, technical guides, reference material, and reference architecture diagrams.
+- `whitepapers-collection` [White Papers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23reference%7Ccontent-type%23whitepaper&awsf.whitepapers-content-category=*all) — Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, technical guides, reference material, and reference architecture diagrams.
 
 - `technical-guide` [Technical Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23tech-guide&awsf.whitepapers-content-category=*all) — Learn practices through technical guides.
 

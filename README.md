@@ -49,7 +49,7 @@ The content in The Builders’ Library is written by Amazon’s senior technical
 
 
 
-## <img width="21" height="21" src="images/video.png" /> This is My Architecture Video Series
+## <img width="21" height="21" src="images/videos.png" /> This is My Architecture Video Series
 
 Short interviews with AWS customers reviewing the design choices they made in architecting applications they have built for their organization.
 

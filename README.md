@@ -12,7 +12,7 @@ A curated list of helpful AWS-Well-Architected resources.
 - [AWS Solutions Library](#-AWS-Solutions-Library)
 - [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
 - [The Amazon Builders' Library](#-aws-reference-architecture-diagrams)
-- [This is My Architecture Video Series](#-aws-reference-architecture-diagrams)
+- [This is My Architecture Video Series](#-this-is-my-architecture-video-series)
 - [Blogs](#-blogs)
 - [Icons](#-icons)
 

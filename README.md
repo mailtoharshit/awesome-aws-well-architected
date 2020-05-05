@@ -1,6 +1,8 @@
 ![](images/5pillars.png)
 <p align="center">
-	[Well Architected Framework for AWS](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+	<a href="https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf">
+		Well Architected Framework for AWS 
+	</a>
 </p>
 
 <p align="center">

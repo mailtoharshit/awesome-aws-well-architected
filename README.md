@@ -1,5 +1,7 @@
 ![](images/5pillars.png)
-[Well Architected Framework for AWS](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+<p align="center">
+	[Well Architected Framework for AWS](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+</p>
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">

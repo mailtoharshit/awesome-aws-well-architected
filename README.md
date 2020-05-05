@@ -22,7 +22,7 @@ A curated list of helpful AWS-Well-Architected resources.
 - [AWS Well-Architected Labs](#-aws-well-architected-labs)
 - [This is My Architecture Video Series](#-this-is-my-architecture-video-series)
 - [AWS Online Tech Talks](#-aws-online-tech-talks)
-- [Blogs](#-blogs)
+- [Blogs](#-social-network)
 - [Icons](#-icons)
 
 
@@ -104,11 +104,82 @@ Online presentations led by AWS solutions architects and engineers. AWS Online T
 - `AWS Online Tech Talks` [Online presentations led by AWS solutions architects and engineers](https://aws.amazon.com/blogs/architecture/) 
 
 
-## <img width="21" height="21" src="images/blogs.png" /> Blogs
+## <img width="21" height="21" src="images/blogs.png" /> Social Network
 
 Blogs around the internet that often (or exclusively) write about AWS Well Architected...
 
 - `blog` [Architected Blog](https://aws.amazon.com/blogs/architecture/) — the official AWS Architecture blog.
+
+
+### Twitter Influencers
+
+AWS Tweeps:
+
+* [@awscloud](https://twitter.com/awscloud) - Official Twitter feed.
+* [@AWS_Partners](https://twitter.com/AWS_Partners)
+* [@AWSIdentity](https://twitter.com/AWSIdentity)
+* [@AWSMarketplace](https://twitter.com/AWSMarketplace)
+* [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
+* [@AWSStartups](https://twitter.com/AWSStartups)
+* [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President.
+* [@Ianmmmm](https://twitter.com/Ianmmmm) - Ian Massingham - Technical Evangelist.
+* [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: Chief Evangelist.
+* [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
+* [@mza](https://twitter.com/mza) - Matt Wood: Product Strategy.
+* [@Werner](https://twitter.com/Werner) - Werner Vogels: CTO.
+* [Community heroes, Evangelists, etc](https://twitter.com/awscloud/lists)
+
+Community Tweeps:
+
+* [@kennwhite](https://twitter.com/kennwhite)
+* [@esh](https://twitter.com/esh)
+* [@garnaat](https://twitter.com/garnaat)
+* [@quinnypig](https://twitter.com/quinnypig)
+* [@awsgeek](https://twitter.com/awsgeek)
+
+### Facebook Pages
+
+AWS Pages:
+
+* [amazonwebservices](https://www.facebook.com/amazonwebservices) - Official Facebook page.
+* [awsreinvent](https://www.facebook.com/awsreinvent) - Official Facebook page for re:Invent.
+
+Community Pages:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
+### YouTube Channels
+
+AWS Channels:
+
+* [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
+* [AWSDeutsch](https://www.youtube.com/user/AWSAktuell)
+* [AWSJapan](https://www.youtube.com/user/AmazonWebServicesJP)
+* [AWSKorea](https://www.youtube.com/user/AWSKorea)
+* [AWSLatinAmerica](https://www.youtube.com/channel/UCvaUAVzIIGsRNlUDWkQFCeA)
+* [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
+* [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
+
+Community Channels:
+
+* [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
+* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+* [Linux Academy](https://www.youtube.com/user/pineheadtv/playlists)
+
+### LinkedIn Groups
+
+AWS Page:
+
+* [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
+
+Community Groups:
+
+* [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
+* [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
+* [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
+* [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
+* [Amazon Web Services Community Network](https://www.linkedin.com/grp/home?gid=49531)
+* [Amazon Web Services Enthusiasts](https://www.linkedin.com/grps?gid=2485626)
 
 
 ## <img width="21" height="21" src="images/icons.png" /> Icons

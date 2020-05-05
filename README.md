@@ -34,3 +34,9 @@ How to architect your AWS projects...
 Blogs around the internet that often (or exclusively) write about AWS Well Architected...
 
 - `blog` [Architected Blog](https://aws.amazon.com/blogs/architecture/) — the official AWS Architecture blog.
+
+
+## <img width="21" height="21" src="images/icons.png" /> Icons
+On this page you will find an official collection of AWS Architecture Icons (formerly Simple Icons) that contain AWS product icons, resources, and other tools to help you build diagrams.
+
+- `icons` [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/) — the official collection of AWS Architecture Icons.

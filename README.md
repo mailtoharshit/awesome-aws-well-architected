@@ -38,6 +38,25 @@ How to architect your AWS projects...
 - `collection` [Reference diagram curated collections](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc) — The flexibility of AWS enables you to design your application architectures the way you like. AWS Reference Architecture Diagrams provide you with the architectural guidance you need to build an application that takes full advantage of the AWS Cloud. Each diagram includes a visual representation of the application architecture and a basic description of how each service is used.
 
 
+
+## <img width="21" height="21" src="images/builder.png" /> The Amazon Builders' Library
+
+Short interviews with AWS customers reviewing the design choices they made in architecting applications they have built for their organization.
+
+- `The Amazon Builders' Library` [How Amazon builds and operates software](https://aws.amazon.com/builders-library/) — The Amazon Builders’ Library is a collection of living articles that describe how Amazon develops, architects, releases, and operates technology. The content in The Builders’ Library is written by Amazon’s senior technical leaders and engineers covering topics across architecture, software delivery, and operations. For example, readers can see how Amazon automates software delivery to achieve over 150 million deployments a year or how Amazon’s engineers implement principles such as shuffle sharding to build resilient systems that are highly available and fault tolerant.
+
+
+
+## <img width="21" height="21" src="images/vidoes.png" /> Blogs
+
+Short interviews with AWS customers reviewing the design choices they made in architecting applications they have built for their organization.
+
+- `My Architecture Vidoes` [This is My Architecture Video Series](https://aws.amazon.com/blogs/architecture/) — Innovative cloud architectures from AWS partners and customers
+
+
+
+
+
 ## <img width="21" height="21" src="images/blogs.png" /> Blogs
 
 Blogs around the internet that often (or exclusively) write about AWS Well Architected...

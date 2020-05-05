@@ -41,7 +41,7 @@ How to architect your AWS projects...
 
 
 
-## <img width="21" height="21" src="images/builder.png" /> The Amazon Builders' Library
+## <img width="21" height="21" src="images/builder.png" /> The Amazon Builders' Library 
 
 The content in The Builders’ Library is written by Amazon’s senior technical leaders and engineers covering topics across architecture, software delivery, and operations. For example, readers can see how Amazon automates software delivery to achieve over 150 million deployments a year or how Amazon’s engineers implement principles such as shuffle sharding to build resilient systems that are highly available and fault tolerant.
 

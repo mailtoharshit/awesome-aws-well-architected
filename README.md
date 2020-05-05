@@ -29,7 +29,7 @@ How to architect your AWS projects...
 - `collection` [Reference diagram curated collections](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc) — The flexibility of AWS enables you to design your application architectures the way you like. AWS Reference Architecture Diagrams provide you with the architectural guidance you need to build an application that takes full advantage of the AWS Cloud. Each diagram includes a visual representation of the application architecture and a basic description of how each service is used.
 
 
-## <img width="21" height="21" src="images/blogs.png" /> Blogs
+## <img width="21" height="21" src="images/blog.png" /> Blogs
 
 Blogs around the internet that often (or exclusively) write about AWS Well Architected...
 

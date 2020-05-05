@@ -8,10 +8,11 @@
 
 A curated list of helpful AWS-Well-Architected resources.
 
-- [Whitepapers & Guides](#-whitepaper)
+- [Whitepapers & Guides](#-whitepapers--guides)
 - [AWS Solutions Library](#-AWS-Solutions-Library)
-- [Reference Architecture Diagrams](#-reference-architecture)
+- [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
 - [Blogs](#-blogs)
+- [Icons](#-icons)
 
 
 ## <img width="21" height="21" src="images/wp.png" /> Whitepapers & Guides

@@ -13,7 +13,7 @@ A curated list of helpful AWS-Well-Architected resources.
 - [Blogs](#-blogs)
 
 
-## <img width="21" height="21" src="images/wp.png" />  Whitepapers & Guides
+## <img width="21" height="21" src="images/wp.png" /> Whitepapers & Guides
 
 Whitepapers & Guides for AWS...
 

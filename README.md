@@ -64,8 +64,6 @@ Online presentations led by AWS solutions architects and engineers. AWS Online T
 - `AWS Online Tech Talks` [Online presentations led by AWS solutions architects and engineers](https://aws.amazon.com/blogs/architecture/) 
 
 
-https://aws.amazon.com/events/online-tech-talks/?nc2=h_ql_ev_ol_ott&trk=el_a131L0000058PvNQAU&trkCampaign=WEBINARSERIES&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_navbar_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult&events-master-ott.sort-by=item.additionalFields.startDateTime&events-master-ott.sort-order=asc
-
 ## <img width="21" height="21" src="images/blogs.png" /> Blogs
 
 Blogs around the internet that often (or exclusively) write about AWS Well Architected...

@@ -9,6 +9,7 @@
 A curated list of helpful AWS-Well-Architected resources.
 
 - [Whitepapers & Guides](#-whitepaper)
+- [AWS Solutions Library](#-AWS Solutions Library)
 - [Reference Architecture Diagrams](#-reference-architecture)
 - [Blogs](#-blogs)
 
@@ -20,6 +21,13 @@ Whitepapers & Guides for AWS...
 - `whitepapers-collection` [White Papers and Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23reference%7Ccontent-type%23whitepaper&awsf.whitepapers-content-category=*all) — Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, technical guides, reference material, and reference architecture diagrams.
 
 - `technical-guide` [Technical Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23tech-guide&awsf.whitepapers-content-category=*all) — Learn practices through technical guides.
+
+## <img width="21" height="21" src="images/solutions.png" /> AWS Solutions Library
+
+The AWS Solutions Library offers a collection of cloud-based solutions for dozens of technical and business problems, vetted for you by AWS. 
+
+- `Soltions` [Solution Collections](https://aws.amazon.com/solutions/?nc1=f_cc) — AWS Solutions Implementations help you solve common problems and build faster using the AWS platform. All AWS Solutions Implementations are vetted by AWS architects and are designed to be operationally effective, reliable, secure, and cost efficient. Every AWS Solutions Implementation comes with detailed architecture, a deployment guide, and instructions for both automated and manual deployment.
+
 
 
 ## <img width="21" height="21" src="images/wa.png" /> AWS Reference Architecture Diagrams

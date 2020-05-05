@@ -13,6 +13,8 @@ A curated list of helpful AWS-Well-Architected resources.
 - [AWS Solutions Library](#-AWS-Solutions-Library)
 - [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
 - [The Amazon Builders' Library](#-aws-reference-architecture-diagrams)
+- [Well Architected Tool] (https://aws.amazon.com/well-architected-tool/)
+- [AWS Well-Architected Labs](https://wellarchitectedlabs.com/README.html)
 - [This is My Architecture Video Series](#-this-is-my-architecture-video-series)
 - [AWS Online Tech Talks](#-aws-online-tech-talks)
 - [Blogs](#-blogs)
@@ -50,6 +52,23 @@ The content in The Builders’ Library is written by Amazon’s senior technical
 - `The Amazon Builders' Library` [How Amazon builds and operates software](https://aws.amazon.com/builders-library/) — The Amazon Builders’ Library is a collection of living articles that describe how Amazon develops, architects, releases, and operates technology. 
 
 
+## <img width="21" height="21" src="images/tool.png" /> AWS Well Architected Tool
+
+The AWS Well-Architected Tool helps you review the state of your workloads and compares them to the latest AWS architectural best practices. The tool is based on the AWS Well-Architected Framework, developed to help cloud architects build secure, high-performing, resilient, and efficient application infrastructure
+
+- `Tooling` - [Well Architected Tool] (https://aws.amazon.com/well-architected-tool/) — To use this free tool, available in the AWS Management Console, just define your workload and answer a set of questions regarding operational excellence, security, reliability, performance efficiency, and cost optimization. The AWS Well-Architected Tool then provides a plan on how to architect for the cloud using established best practices.
+
+
+
+## <img width="21" height="21" src="images/labs.png" /> AWS Well-Architected Labs 
+
+This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. The labs are categorized into levels, where 100 is introductory, 200/300 is intermediate and 400 is advanced.
+
+- `Hand-on Labs` [AWS Well-Architected Labs](https://wellarchitectedlabs.com/README.html) — Try out effectiveness of your architecture and learn more about best-practices.
+-  `Official Github Repository`   [Github](https://github.com/awslabs/aws-well-architected-labs/)
+ 
+
+
 
 ## <img width="21" height="21" src="images/videos.png" /> This is My Architecture Video Series
 
@@ -61,6 +80,7 @@ Short interviews with AWS customers reviewing the design choices they made in ar
 ## <img width="21" height="21" src="images/talks.png" /> AWS Online Tech Talks
 
 Online presentations led by AWS solutions architects and engineers. AWS Online Tech Talks cover a range of topics and expertise levels, and feature technical deep dives, demonstrations, customer examples, and live Q&A with AWS experts.
+
 
 - `AWS Online Tech Talks` [Online presentations led by AWS solutions architects and engineers](https://aws.amazon.com/blogs/architecture/) 
 

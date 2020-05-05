@@ -11,6 +11,8 @@ A curated list of helpful AWS-Well-Architected resources.
 - [Whitepapers & Guides](#-whitepapers--guides)
 - [AWS Solutions Library](#-AWS-Solutions-Library)
 - [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
+- [The Amazon Builders' Library](#-aws-reference-architecture-diagrams)
+- [This is My Architecture Video Series](#-aws-reference-architecture-diagrams)
 - [Blogs](#-blogs)
 - [Icons](#-icons)
 
@@ -41,19 +43,17 @@ How to architect your AWS projects...
 
 ## <img width="21" height="21" src="images/builder.png" /> The Amazon Builders' Library
 
-Short interviews with AWS customers reviewing the design choices they made in architecting applications they have built for their organization.
+The content in The Builders’ Library is written by Amazon’s senior technical leaders and engineers covering topics across architecture, software delivery, and operations. For example, readers can see how Amazon automates software delivery to achieve over 150 million deployments a year or how Amazon’s engineers implement principles such as shuffle sharding to build resilient systems that are highly available and fault tolerant.
 
-- `The Amazon Builders' Library` [How Amazon builds and operates software](https://aws.amazon.com/builders-library/) — The Amazon Builders’ Library is a collection of living articles that describe how Amazon develops, architects, releases, and operates technology. The content in The Builders’ Library is written by Amazon’s senior technical leaders and engineers covering topics across architecture, software delivery, and operations. For example, readers can see how Amazon automates software delivery to achieve over 150 million deployments a year or how Amazon’s engineers implement principles such as shuffle sharding to build resilient systems that are highly available and fault tolerant.
+- `The Amazon Builders' Library` [How Amazon builds and operates software](https://aws.amazon.com/builders-library/) — The Amazon Builders’ Library is a collection of living articles that describe how Amazon develops, architects, releases, and operates technology. 
 
 
 
-## <img width="21" height="21" src="images/vidoes.png" /> Blogs
+## <img width="21" height="21" src="images/video.png" /> This is My Architecture Video Series
 
 Short interviews with AWS customers reviewing the design choices they made in architecting applications they have built for their organization.
 
 - `My Architecture Vidoes` [This is My Architecture Video Series](https://aws.amazon.com/blogs/architecture/) — Innovative cloud architectures from AWS partners and customers
-
-
 
 
 

@@ -34,7 +34,9 @@ Whitepapers & Guides for AWS...
 
 - `technical-guide` [Technical Guide](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23tech-guide&awsf.whitepapers-content-category=*all) — Learn practices through technical guides.
 
-Well-Architected lens
+# <img width="21" height="21" src="images/lens.png" /> Well-Architected lens
+
+Well-Architected lens for AWS...
 
 - `serverless` [Serverless Application](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf) — This “Lens”  focus on how to design, deploy, and architect your serverless application workloads on the AWS Cloud. It covers scenarios such as RESTful Microservices, Mobile back-ends, Stream Processing, and Web Application. By using this Well-Architected lens you will learn best practices for building serverless application workloads on AWS.
 

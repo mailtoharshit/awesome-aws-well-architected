@@ -22,7 +22,7 @@ A curated list of helpful AWS-Well-Architected resources.
 - [AWS Well-Architected Labs](#-aws-well-architected-labs)
 - [This is My Architecture Video Series](#-this-is-my-architecture-video-series)
 - [AWS Online Tech Talks](#-aws-online-tech-talks)
-- [Blogs](#-social-network)
+- [Social Channels](#-social-network)
 - [Icons](#-icons)
 
 
@@ -116,12 +116,8 @@ Blogs around the internet that often (or exclusively) write about AWS Well Archi
 AWS Tweeps:
 
 * [@awscloud](https://twitter.com/awscloud) - Official Twitter feed.
-* [@AWS_Partners](https://twitter.com/AWS_Partners)
-* [@AWSIdentity](https://twitter.com/AWSIdentity)
-* [@AWSMarketplace](https://twitter.com/AWSMarketplace)
-* [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
-* [@AWSStartups](https://twitter.com/AWSStartups)
-* [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President.
+* [@mattgyy](https://twitter.com/mattgy/) - Director, AWS Architecture Best Practices.
+* [@aarthiraju](https://twitter.com/aartraju) - Principal Architect at AWS
 * [@Ianmmmm](https://twitter.com/Ianmmmm) - Ian Massingham - Technical Evangelist.
 * [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: Chief Evangelist.
 * [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
@@ -142,11 +138,7 @@ Community Tweeps:
 AWS Pages:
 
 * [amazonwebservices](https://www.facebook.com/amazonwebservices) - Official Facebook page.
-* [awsreinvent](https://www.facebook.com/awsreinvent) - Official Facebook page for re:Invent.
 
-Community Pages:
-
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### YouTube Channels
 
@@ -168,17 +160,12 @@ Community Channels:
 
 ### LinkedIn Groups
 
-AWS Page:
-
-* [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
-
 Community Groups:
 
 * [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
 * [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
 * [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
 * [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
-* [Amazon Web Services Community Network](https://www.linkedin.com/grp/home?gid=49531)
 * [Amazon Web Services Enthusiasts](https://www.linkedin.com/grps?gid=2485626)
 
 

@@ -13,6 +13,7 @@ A curated list of helpful AWS-Well-Architected resources.
 - [Reference Architecture Diagrams](#-aws-reference-architecture-diagrams)
 - [The Amazon Builders' Library](#-aws-reference-architecture-diagrams)
 - [This is My Architecture Video Series](#-this-is-my-architecture-video-series)
+- [AWS Online Tech Talks](#-this-is-my-architecture-video-series)
 - [Blogs](#-blogs)
 - [Icons](#-icons)
 
@@ -56,6 +57,14 @@ Short interviews with AWS customers reviewing the design choices they made in ar
 - `My Architecture Vidoes` [This is My Architecture Video Series](https://aws.amazon.com/blogs/architecture/) — Innovative cloud architectures from AWS partners and customers
 
 
+## <img width="21" height="21" src="images/talks.png" /> AWS Online Tech Talks
+
+Online presentations led by AWS solutions architects and engineers. AWS Online Tech Talks cover a range of topics and expertise levels, and feature technical deep dives, demonstrations, customer examples, and live Q&A with AWS experts.
+
+- `AWS Online Tech Talks` [Online presentations led by AWS solutions architects and engineers](https://aws.amazon.com/blogs/architecture/) 
+
+
+https://aws.amazon.com/events/online-tech-talks/?nc2=h_ql_ev_ol_ott&trk=el_a131L0000058PvNQAU&trkCampaign=WEBINARSERIES&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_navbar_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult&events-master-ott.sort-by=item.additionalFields.startDateTime&events-master-ott.sort-order=asc
 
 ## <img width="21" height="21" src="images/blogs.png" /> Blogs
 

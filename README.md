@@ -145,10 +145,8 @@ AWS Pages:
 AWS Channels:
 
 * [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
-* [AWSDeutsch](https://www.youtube.com/user/AWSAktuell)
-* [AWSJapan](https://www.youtube.com/user/AmazonWebServicesJP)
-* [AWSKorea](https://www.youtube.com/user/AWSKorea)
-* [AWSLatinAmerica](https://www.youtube.com/channel/UCvaUAVzIIGsRNlUDWkQFCeA)
+* [This is my architecture Youtube Playlist](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+* [AWS Solutions Playlist](https://www.youtube.com/watch?v=uRxCk8_JzEk&list=PLhr1KZpdzukfZfO3tznG8ZvxMvqTWtPH7)
 * [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
 * [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
 

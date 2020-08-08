@@ -48,6 +48,11 @@ Well-Architected lens for AWS...
 
 - `ML` [Machine Learning](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf) — This “Lens” focus on common machine learning (ML) scenarios and identify key elements to ensure that your workloads are architected according to best practices in the AWS cloud. It covers scenarios such as securing your ML datasets, architecting your ML pipelines, and best practices for cost and reliability of your ML workloads.
 
+- `Financial Services`[Financial Services](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Financial-Services-Industry-Lens.pdf?did=wp_card&trk=wp_card) — Best practices for architecting your Financial Services Industry workloads on AWS.
+
+- `Analytics Lens`[Financial Services](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Analytics-Lens.pdf?did=wp_card&trk=wp_card) — Describes common analytics applications scenarios and identifies key elements to ensure that your workloads are architected according to best practices.
+
+
 ## <img width="21" height="21" src="images/solutions.png" /> AWS Solutions Library
 
 The AWS Solutions Library offers a collection of cloud-based solutions for dozens of technical and business problems, vetted for you by AWS. 

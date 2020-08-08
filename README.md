@@ -50,7 +50,7 @@ Well-Architected lens for AWS...
 
 - `Financial Services`[Financial Services](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Financial-Services-Industry-Lens.pdf?did=wp_card&trk=wp_card) — Best practices for architecting your Financial Services Industry workloads on AWS.
 
-- `Analytics Lens`[Financial Services](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Analytics-Lens.pdf?did=wp_card&trk=wp_card) — Describes common analytics applications scenarios and identifies key elements to ensure that your workloads are architected according to best practices.
+- `Analytics Lens`[Analytis Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Analytics-Lens.pdf?did=wp_card&trk=wp_card) — Describes common analytics applications scenarios and identifies key elements to ensure that your workloads are architected according to best practices.
 
 
 ## <img width="21" height="21" src="images/solutions.png" /> AWS Solutions Library
